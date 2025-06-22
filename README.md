@@ -1,10 +1,15 @@
 # API-CRUD
 
+
+
+# Paso 1 - Iniciar sesion para generar el token del usuario 
 <br>
 
 ![img_1](img/post_login.PNG)
 
 <br>
+
+# Paso 2 - En el apartado de Authorization -> bearer token - Colocar el token generado en /login para poder llamar mediante una peticion GET a los servicios disponibles 
 
 
 <br>
@@ -13,7 +18,16 @@
 
 <br>
 
+# Paso 3 - Agregar un nuevo servicio mediante Peticiones POST y agregando un cuerpo en Body de tipo JSON
 
+```cmd
+{
+ "nombre": "Ciberseguridad",
+ "entidad": "DEFENSA",
+ "prioridad": "ALTA"
+}
+
+```
 
 <br>
 
