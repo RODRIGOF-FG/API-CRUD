@@ -9,7 +9,8 @@
 
 <br>
 
-# Paso 2 - En el apartado de Authorization -> bearer token - Colocar el token generado en /login para poder llamar mediante una peticion GET a los servicios disponibles 
+# Paso 2 - Peticion GET servicios disponibles
+- En el apartado de Authorization -> bearer token - Colocar el token generado en /login para poder llamar mediante una peticion GET a los servicios disponibles 
 
 
 <br>
@@ -18,7 +19,8 @@
 
 <br>
 
-# Paso 3 - Agregar un nuevo servicio mediante Peticiones POST y agregando un cuerpo en Body de tipo JSON
+# Paso 3 - Nuevo servicio POST
+- Agregar un nuevo servicio mediante Peticiones POST y agregando un cuerpo en Body de tipo JSON
 
 ```cmd
 {
