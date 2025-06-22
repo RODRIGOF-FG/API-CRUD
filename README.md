@@ -9,6 +9,16 @@
 <br>
 
 # Paso 1 - Iniciar sesion para generar el token del usuario 
+
+```cmd
+{
+ "username": "ad@gmail.com",
+ "password": "ad"
+}
+
+
+```
+
 <br>
 
 ![img_1](img/post_login.PNG)
