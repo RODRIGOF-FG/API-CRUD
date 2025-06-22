@@ -37,6 +37,18 @@
 
 <br>
 
+# Paso 4 - Editar Servicio PUT
+- Editar el servicio previamanet agregado id = 4 /api/v1/servicios/4
+- se puede cambiar el id segun que servicio se queira editar **/api/v1/servicios/{id_service}**
+
+```cmd
+{
+ "nombre": "Editado4",
+ "entidad": "DEFENSA",
+ "prioridad": "ALTA"
+}
+
+```
 
 <br>
 
