@@ -56,6 +56,9 @@
 
 <br>
 
+# Paso 5 - Eliminar servicio DELETE
+- Eliminar el servicio previamanet agregado id = 4 /api/v1/servicios/4
+- se puede cambiar el id segun que servicio se queira eliminar **/api/v1/servicios/{id_service}**
 
 <br>
 
