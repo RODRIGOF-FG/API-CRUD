@@ -1,6 +1,12 @@
 # API-CRUD
 
+# Configuracion del token
+- El token jwt tiene como duracion unos 23 minutos
+<br>
 
+![img_1](img/token_jwt_io.PNG)
+
+<br>
 
 # Paso 1 - Iniciar sesion para generar el token del usuario 
 <br>
@@ -39,7 +45,7 @@
 
 # Paso 4 - Editar Servicio PUT
 - Editar el servicio previamanet agregado id = 4 /api/v1/servicios/4
-- se puede cambiar el id segun que servicio se queira editar **/api/v1/servicios/{id_service}**
+- se puede cambiar el id segun que servicio se quiera editar **/api/v1/servicios/{id_service}**
 
 ```cmd
 {
@@ -58,7 +64,7 @@
 
 # Paso 5 - Eliminar servicio DELETE
 - Eliminar el servicio previamanet agregado id = 4 /api/v1/servicios/4
-- se puede cambiar el id segun que servicio se queira eliminar **/api/v1/servicios/{id_service}**
+- se puede cambiar el id segun que servicio se quiera eliminar **/api/v1/servicios/{id_service}**
 
 <br>
 
