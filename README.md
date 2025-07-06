@@ -10,6 +10,15 @@
 
 # Paso 1 - Iniciar sesion para generar el token del usuario 
 
+Endpoint:
+
+```cmd
+http://localhost:4000/auth/login
+
+
+```
+
+
 ```cmd
 {
  "username": "ad@gmail.com",
