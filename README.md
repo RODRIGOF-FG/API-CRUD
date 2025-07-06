@@ -15,7 +15,6 @@ Endpoint:
 ```cmd
 http://localhost:4000/auth/login
 
-
 ```
 
 
@@ -36,6 +35,7 @@ http://localhost:4000/auth/login
 
 # Paso 2 - Peticion GET servicios disponibles
 - En el apartado de Authorization -> bearer token - Colocar el token generado en /login para poder llamar mediante una peticion GET a los servicios disponibles 
+
 
 
 <br>
